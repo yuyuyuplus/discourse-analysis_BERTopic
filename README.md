@@ -1,10 +1,10 @@
-# China–Myanmar Diplomatic Discourse Analysis (2011–2024)
+# Diplomatic Discourse Analysis (2011–2024)
 
 This repository contains the data and analysis scripts used in the study:
 
 ## Data
 
-The dataset consists of 1,403 publicly available texts from the Ministry of Foreign Affairs of China (2011–2024).
+The dataset consists of 1,403 publicly available texts from the MFA website of China (2011–2024).
 
 ## Contents
 
